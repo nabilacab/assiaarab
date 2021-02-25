@@ -1,0 +1,560 @@
+/* 500 ---- 800px */ 
+@media only screen and (min-width : 500px ) and (max-width : 800px) {
+    *{
+        padding: 0px;
+        margin: 0px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+     
+    #header1 {
+        width: 100%;
+        height: 200px;
+        
+    }
+    #header1 img {
+        width: 100%;
+        height: 200px;
+    }
+    #mainbtn {
+        width: 100%;
+        height: 100px;
+        background-color: black;
+        line-height: 100px;
+        text-align: center;
+        
+
+    }
+    #mainbtn h1 {
+        color: white;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 20px;
+        margin: 0px 20px;
+    }
+    nav {
+        width: 100%;
+        height: 80 px;
+        line-height: 60px;
+        text-align: center;
+        background-color: rgb(16, 19, 19);
+    }
+    #code {
+       color: rgb(5, 1, 1);
+       background-color: greenyellow;
+       width: 70px;
+       height: 60px;
+       border-radius: 10px;
+    }
+    header {
+        width: 100%;
+        height: 150px;
+        text-align: center;
+        line-height: 150px;
+    }
+    nav h1 {
+        color: rgb(163, 10, 10);
+        font-size: 30px;
+    }
+    header img {
+    width: 100%;
+    height: 150px;
+    }
+    #main1 {
+        float: left;
+        width: 50%;
+        
+    }
+    #main1 a {
+        text-decoration: none;
+    }
+    
+    #main2 {
+        float: right;
+        width: 50%;
+        
+    }
+    article  {
+        width: 350px;
+        height: 370px;
+        background-color: rgb(194, 162, 162);
+        border: 3px solid rgb(0, 0, 0);
+        text-align: center;
+        margin: 15px;
+        border-radius: 15px;
+        
+    
+        
+    }
+    
+    article img {
+        width: 300px;
+        height:300px;
+        border-radius: 50%;
+        margin-top: 10px;
+        
+        
+    
+    }
+    article h1 {
+        color: black;
+        font-size: 15px;
+    }
+    .btc {
+        width: 50px;
+        height: 50px;
+        background-color: rgb(167, 164, 164);
+        color: black;
+        border-radius: 50%;
+        border: 3px solid white;
+    }
+    #btn {
+        width: 60px;
+        height: 30px;
+        background-color: yellow;
+        color: black;
+        border-radius: 15px;
+        border: black;
+    }
+    }
+
+
+@media only screen and (max-width : 500px) {
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#btn {
+    width: 60px;
+    height: 30px;
+    background-color: yellow;
+    color: black;
+    border-radius: 15px;
+    border: black;
+}
+#mainbtn h1 {
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    margin: 0px 20px;
+}
+#code {
+    color: rgb(5, 1, 1);
+    background-color: greenyellow;
+    width: 70px;
+    height: 70px;
+    border-radius: 10px;
+        }
+#header1 {
+    width: 100%;
+    height: 200px;
+    
+}
+#header1 img {
+    width: 100%;
+    height: 200px;
+}
+
+nav {
+    width: 100%;
+    height: 60 px;
+    line-height: 60px;
+    text-align: center;
+    background-color: rgb(16, 19, 19);
+}
+header {
+    width: 100%;
+    height: 150px;
+    text-align: center;
+    line-height: 150px;
+}
+nav h1 {
+    color: rgb(163, 10, 10);
+    font-size: 25px;
+}
+header img {
+width: 100%;
+height: 150px;
+}
+#main1 {
+    float: left;
+    width: 50%;
+    
+}
+#main1 a {
+    text-decoration: none;
+}
+
+#main2 {
+    float: right;
+    width: 50%;
+    
+}
+article  {
+    width: 170px;
+    height: 200px;
+    background-color: rgb(194, 162, 162);
+    border: 3px solid rgb(0, 0, 0);
+    text-align: center;
+    margin: 5px;
+    border-radius: 15px;
+    
+
+    
+}
+
+article img {
+    width: 150px;
+    height:150px;
+    border-radius: 50%;
+    margin-top: 10px;
+    
+    
+
+}
+.btc {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(167, 164, 164);
+    color: black;
+    border-radius: 50%;
+    border: 3px solid white;
+}
+#mainbtn {
+    width: 100%;
+    height: 100px;
+    background-color: black;
+    line-height: 100px;
+    text-align: center;
+    
+
+}
+
+
+}
+
+/* media 450x max */
+
+@media only screen and (min-width : 390px ) and (max-width : 450px) {
+    *{
+        padding: 0px;
+        margin: 0px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    #btn {
+        width: 60px;
+        height: 30px;
+        background-color: yellow;
+        color: black;
+        border-radius: 15px;
+        border: black;
+    }
+    #header1 {
+        width: 100%;
+        height: 200px;
+        
+    }
+    #header1 img {
+        width: 100%;
+        height: 200px;
+    }
+    #mainbtn h1 {
+        color: white;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 20px;
+        margin: 0px 20px;
+    }
+    nav {
+        width: 100%;
+        height: 60 px;
+        line-height: 60px;
+        text-align: center;
+        background-color: rgb(16, 19, 19);
+    }
+    header {
+        width: 100%;
+        height: 150px;
+        text-align: center;
+        line-height: 150px;
+    }
+    nav h1 {
+        color: rgb(163, 10, 10);
+        font-size: 23px;
+    }
+    header img {
+    width: 100%;
+    height: 150px;
+    }
+    #main1 {
+        float: left;
+        width: 50%;
+        
+    }
+    #main1 a {
+        text-decoration: none;
+    }
+    
+    #main2 {
+        float: right;
+        width: 50%;
+        
+    }
+    article  {
+        width: 180px;
+        height: 200px;
+        background-color: rgb(194, 162, 162);
+        border: 3px solid rgb(0, 0, 0);
+        text-align: center;
+        margin: 5px;
+        border-radius: 15px;
+        
+    
+        
+    }
+    
+    article img {
+        width: 150px;
+        height:150px;
+        border-radius: 50%;
+        margin-top: 10px;
+        
+        
+    
+    }
+    .btc {
+        width: 50px;
+        height: 50px;
+        background-color: rgb(167, 164, 164);
+        color: black;
+        border-radius: 50%;
+        border: 3px solid white;
+    }
+    #mainbtn {
+        width: 100%;
+        height: 100px;
+        background-color: black;
+        line-height: 100px;
+        text-align: center;
+        
+
+    }
+    
+    
+    }
+    /* media 290----350 */ 
+
+    @media only screen and (min-width : 290px ) and (max-width : 350px) {
+        *{
+            padding: 0px;
+            margin: 0px;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        #btn {
+            width: 60px;
+            height: 30px;
+            background-color: yellow;
+            color: black;
+            border-radius: 15px;
+            border: black;
+        }
+        #mainbtn h1 {
+            color: white;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 20px;
+            margin: 0px 20px;
+        }
+        #header1 {
+            width: 100%;
+            height: 200px;
+            
+        }
+        #header1 img {
+            width: 100%;
+            height: 200px;
+        }
+        
+        nav {
+            width: 100%;
+            height: 60 px;
+            line-height: 60px;
+            text-align: center;
+            background-color: rgb(16, 19, 19);
+        }
+        header {
+            width: 100%;
+            height: 150px;
+            text-align: center;
+            line-height: 150px;
+        }
+        nav h1 {
+            color: rgb(163, 10, 10);
+            font-size: 20px;
+        }
+        header img {
+        width: 100%;
+        height: 150px;
+        }
+        #main1 {
+            float: left;
+            width: 50%;
+            
+        }
+        #main1 a {
+            text-decoration: none;
+        }
+        
+        #main2 {
+            float: right;
+            width: 50%;
+            
+        }
+        article  {
+            width: 150px;
+            height: 210px;
+            background-color: rgb(194, 162, 162);
+            border: 3px solid rgb(0, 0, 0);
+            text-align: center;
+            margin: 5px;
+            border-radius: 15px;
+            
+        
+            
+        }
+        
+        article img {
+            width: 150px;
+            height:150px;
+            border-radius: 50%;
+            margin-top: 10px;
+            
+            
+        
+        }
+        .btc {
+            width: 50px;
+            height: 50px;
+            background-color: rgb(167, 164, 164);
+            color: black;
+            border-radius: 50%;
+            border: 3px solid white;
+        }
+        #mainbtn {
+            width: 100%;
+            height: 100px;
+            background-color: black;
+            line-height: 100px;
+            text-align: center;
+            
+    
+        }
+        
+        
+        }
+
+        /* 200----290 */
+        @media only screen and (min-width : 200px ) and (max-width : 290px) {
+            *{
+                padding: 0px;
+                margin: 0px;
+                font-family: Arial, Helvetica, sans-serif;
+            }
+            #mainbtn h1 {
+                color: white;
+                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                font-size: 15px;
+                margin: 0px 20px;
+            }
+            #btn {
+                width: 60px;
+                height: 30px;
+                background-color: yellow;
+                color: black;
+                border-radius: 15px;
+                border: black;
+            }
+            #header1 {
+                width: 100%;
+                height: 200px;
+                
+            }
+            #header1 img {
+                width: 100%;
+                height: 200px;
+            }
+            
+            nav {
+                width: 100%;
+                height: 60 px;
+                line-height: 60px;
+                text-align: center;
+                background-color: rgb(16, 19, 19);
+            }
+            header {
+                width: 100%;
+                height: 150px;
+                text-align: center;
+                line-height: 150px;
+            }
+            nav h1 {
+                color: rgb(163, 10, 10);
+                font-size: 18px;
+            }
+            header img {
+            width: 100%;
+            height: 150px;
+            }
+            #main1 {
+                float: left;
+                width: 50%;
+                
+            }
+            #main1 a {
+                text-decoration: none;
+            }
+            
+            #main2 {
+                float: right;
+                width: 50%;
+                
+            }
+            article  {
+                width: 120px;
+                height: 200px;
+                background-color: rgb(194, 162, 162);
+                border: 3px solid rgb(0, 0, 0);
+                text-align: center;
+                margin: 5px;
+                border-radius: 15px;
+                
+            
+                
+            }
+            
+            article img {
+                width: 120px;
+                height:120px;
+                border-radius: 50%;
+                margin-top: 10px;
+                
+                
+            
+            }
+            .btc {
+                width: 50px;
+                height: 50px;
+                background-color: rgb(167, 164, 164);
+                color: black;
+                border-radius: 50%;
+                border: 3px solid white;
+            }
+            #mainbtn {
+                width: 100%;
+                height: 100px;
+                background-color: black;
+                line-height: 100px;
+                text-align: center;
+                
+        
+            }
+            
+            
+            }
